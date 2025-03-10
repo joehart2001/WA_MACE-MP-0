@@ -2,7 +2,8 @@ venv_mace/
 phonon/
 reference_ph_modes/
 mace-omat-0-medium.model
-*.traj
-*.xyz
-*.json
-*.png
+figures/
+ref_adhesion/
+structures/
+trajectories/
+adhesion_relax/
