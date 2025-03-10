@@ -1,2 +1,2 @@
-# WA_MACE-MP-0
-Written assignment for investigating a graphene/MXene heterostructure with MACE-MP-0, MACE-MPA-0 and MACE-OMAT-0
+# WA: MACE-MP-0
+Investigating sodium ion diffusion in a graphene/MXene heterostructure using MACE-MP-0, MACE-MPA-0 and MACE-OMAT-0 foundation MLPs.
