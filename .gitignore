@@ -9,3 +9,4 @@ trajectories/
 adhesion_relax/
 .DS_Store
 __pycache__/interlayer_spacing.cpython-312.pyc
+*.model
