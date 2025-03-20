@@ -64,15 +64,12 @@ def add_sodium_many(heterostructure, n_Na=8):
 
     na_positions = []
     
-    # Top row (3 Na)
     for x in x_positions_top:
         na_positions.append([x, y_positions[2], na_z])
 
-    # Middle row (2 Na) staggered
     for x in x_positions_middle:
         na_positions.append([x, y_positions[1], na_z])
 
-    # Bottom row (3 Na)
     for x in x_positions_bottom:
         na_positions.append([x, y_positions[0], na_z])
 
